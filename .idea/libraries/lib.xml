@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/pg73jdbc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/postgresql-42.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/Framework.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/FormGenere.jar!/" />
+      <root url="file://D:/ITU/S5/KYLE" />
+      <root url="file://D:/ITU/S5/KYLE" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/ITU/S5/KYLE/src" />
+    </SOURCES>
+    <jarDirectory url="file://D:/ITU/S5/KYLE" recursive="false" />
+  </library>
+</component>
